@@ -1,0 +1,24 @@
+{
+  "name": "create-a-business-ai-powered-task-manager-smart-productivity-app-with-ai-priorit-84599808",
+  "version": "1.0.0",
+  "description": "Create a business: AI-Powered Task Manager - Smart productivity app with AI prioritization\n\n**AI Learning Insights Applied:**\n• Invest heavily in user experience and interface design to ensure the app is easy to use\n• Ensure the AI's task prioritization algorithm is accurate and reliable\n• Consider partnerships or integrations with other productivity tools to increase user adoption\n\n**Warning Signals to Monitor:**\n⚠️ Slow adoption rate among target market\n⚠️ Increasing number of competitors in the AI task management space\n⚠️ Negative user feedback about the AI's task prioritization accuracy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
